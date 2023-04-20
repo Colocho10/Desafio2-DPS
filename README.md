@@ -3,6 +3,7 @@
 ### Carlos Eduardo Siliézar Colocho - #SC202203
 ### Docente: Ing. Kevin Jiménez
 
+## Aplicación utilizando la función fetch para realizar pedidos a un servicio web.
 # Pasos para crear la App:
 
 > Clonar el repositorio
